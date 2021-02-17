@@ -23,7 +23,7 @@ Edit `next.config.js` and replace `'Next-gh-page-example'` by your project name.
 3.  Publish your master branch.
 
 ```bash
-npm run deploy
+npm run deploy 
 ```
 
 Test it:
